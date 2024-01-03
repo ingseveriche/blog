@@ -28,7 +28,7 @@ Blog relacionado a los libros, con las funciones principales como son la creaci�
 - `Funcionalidad 10`: Buscador de entradas.
 
 ### Nuevas funcionalidades
-- `Funcionalidad 11`: Página de entrada con la información del libro.
+- `Funcionalidad 11`: Sección del libro en las entradas.
 - `Funcionalidad 12`: Página con la información del libro.
 - `Funcionalidad 13`: Listado de todos los libros de un autor.
 - `Funcionalidad 14`: Responsive básico.

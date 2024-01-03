@@ -40,5 +40,9 @@ Blog relacionado a los libros, con las funciones principales como son la creaci√
 ## Base de Datos
 :open_file_folder: La informaci√≥n de la base de datos se encuentra en la carpeta ***database***.
 
-## Acceso al proyecto
-:woman_technologist: Link
+## Screenshots
+:open_file_folder: En la carpeta ***screenshots*** se encuentran todas las capturas.
+
+<img width="1424" alt="index" src="https://github.com/ingseveriche/blog/assets/114374804/26154c78-5ec1-4c0d-a6b0-1ebdb451b6ff">
+<img width="1424" alt="entrada" src="https://github.com/ingseveriche/blog/assets/114374804/41495891-4b7b-4a7c-8b32-f504617b3c47">
+<img width="1424" alt="crear-libro" src="https://github.com/ingseveriche/blog/assets/114374804/a1135c63-6fef-40bc-9395-9582e0b0d8c5">
